@@ -1,0 +1,20 @@
+{
+  "name": "zadanie25-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielmark0116/zadanie25-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielmark0116/zadanie25-3/issues"
+  },
+  "homepage": "https://github.com/danielmark0116/zadanie25-3#readme"
+}
